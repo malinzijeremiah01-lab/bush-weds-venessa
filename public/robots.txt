@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bush-weds-venessa.vercel.app/sitemap.xml
